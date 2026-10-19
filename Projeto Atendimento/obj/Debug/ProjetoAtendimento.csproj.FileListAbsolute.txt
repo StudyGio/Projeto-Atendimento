@@ -1,0 +1,10 @@
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\Projeto Atendimento\bin\Debug\Projeto Atendimento.exe.config
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\Projeto Atendimento\bin\Debug\Projeto Atendimento.exe
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\Projeto Atendimento\bin\Debug\Projeto Atendimento.pdb
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\Projeto Atendimento\obj\Debug\ProjetoAtendimento.csproj.AssemblyReference.cache
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\Projeto Atendimento\obj\Debug\ProjetoAtendimento.Form1.resources
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\Projeto Atendimento\obj\Debug\Projeto_Atendimento.Properties.Resources.resources
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\Projeto Atendimento\obj\Debug\ProjetoAtendimento.csproj.GenerateResource.cache
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\Projeto Atendimento\obj\Debug\ProjetoAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\Projeto Atendimento\obj\Debug\Projeto Atendimento.exe
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\Projeto Atendimento\obj\Debug\Projeto Atendimento.pdb
